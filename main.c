@@ -7,7 +7,7 @@
 #include <time.h>
 #include <sys/time.h>
 
-#define DISP_BUF_SIZE (128 * 1024)
+#define DISP_BUF_SIZE (135 * 1024)
 
 int main(void)
 {
@@ -51,7 +51,7 @@ int main(void)
 
 
     /*Create a Demo*/
-    lv_demo_widgets();
+    lv_demo_stress();
 
     /*Handle LitlevGL tasks (tickless mode)*/
     while(1) {
