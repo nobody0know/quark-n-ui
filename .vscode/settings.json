@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"fbdev.h": "c",
+		"lv_demos.h": "c",
+		"lv_conf.h": "c",
+		"lv_drv_conf.h": "c",
+		"gui_guider.h": "c",
+		"custom.h": "c",
+		"events_init.h": "c",
+		"lvgl.h": "c"
+	}
+}
